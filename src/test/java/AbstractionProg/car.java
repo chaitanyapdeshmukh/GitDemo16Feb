@@ -13,6 +13,10 @@ public abstract class car {
 		System.out.println("we are checking speed, we are in abstract class");
 	}
 	
+	void apacMethod()
+	{
+		System.out.println("we are checking speed, we are in abstract class");
+	}
 	
 
 }
