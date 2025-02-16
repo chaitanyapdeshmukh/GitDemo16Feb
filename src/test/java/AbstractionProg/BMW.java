@@ -31,4 +31,14 @@ public class BMW extends car {
 		System.out.println("Code uploaded in the in APAC time zone 2");
 		
 	}
+	
+	void architecht() {	
+		super.speedcheck();  //super to access parent class method
+		System.out.println("we r in speedcheck of bmw");
+		System.out.println("Code uploaded in the us time zone");
+		System.out.println("Code uploaded in the in APAC time zone");
+		System.out.println("Code uploaded in the in APAC time zone 2");
+		
+	}
+	
 }

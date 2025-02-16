@@ -18,5 +18,9 @@ public abstract class car {
 		System.out.println("we are checking speed, we are in abstract class");
 	}
 	
+	void Architecht()
+	{
+		System.out.println("Added by Architect");
+	}
 
 }
