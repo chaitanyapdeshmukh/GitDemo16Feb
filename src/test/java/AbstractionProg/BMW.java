@@ -26,5 +26,6 @@ public class BMW extends car {
 	void speedcheck() {	
 		super.speedcheck();  //super to access parent class method
 		System.out.println("we r in speedcheck of bmw");
+		System.out.println("Code uploaded in the us time zone");
 	}
 }
